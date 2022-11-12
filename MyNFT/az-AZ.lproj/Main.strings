@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "The Cosmoverse"; ObjectID = "4Pu-nh-sGo"; */
+"4Pu-nh-sGo.text" = "Kosmovers";
+
+/* Class = "UILabel"; text = "4.10 ETH"; ObjectID = "WSV-CZ-Wtw"; */
+"WSV-CZ-Wtw.text" = "4.10 ETH";
+
+/* Class = "UIButton"; configuration.title = "Place a bid"; ObjectID = "a6u-7K-ygT"; */
+"a6u-7K-ygT.configuration.title" = "Təklif verin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a6u-7K-ygT"; */
+"a6u-7K-ygT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Cosmic adventure of the Cosmoverse A beautiful place with unseen colours and some unreal dangers."; ObjectID = "bGQ-Or-b7p"; */
+"bGQ-Or-b7p.text" = "Kosmoversin kosmik macərası. Görünməyən rəngləri və bəzi qeyri-real təhlükələri olan gözəl bir yer.";
+
+/* Class = "UILabel"; text = "@devilianArt"; ObjectID = "ePP-1J-1F7"; */
+"ePP-1J-1F7.text" = "@devilianArt";
+
+/* Class = "UILabel"; text = "Top Bid"; ObjectID = "fgy-yC-uJj"; */
+"fgy-yC-uJj.text" = "Top Bid";
+
+/* Class = "UILabel"; text = "1024"; ObjectID = "lwS-pt-xsS"; */
+"lwS-pt-xsS.text" = "1024";
+
+/* Class = "UILabel"; text = "348"; ObjectID = "yWA-gZ-5cK"; */
+"yWA-gZ-5cK.text" = "348";
